@@ -49,3 +49,5 @@ SOFTWARE.
 ## Badges
 
 ![badmath](https://img.shields.io/github/languages/top/nielsenjared/badmath)
+![badmath](https://img.shields.io/badge/CSS-100%25-blue)
+![badmath](https://img.shields.io/badge/HTML-100%25-blue)

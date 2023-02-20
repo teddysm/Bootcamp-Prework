@@ -21,7 +21,7 @@ No installation is required.
 
 ## Usage
 
-![screenshot](prework-study-guide/assets/screenshot.png)
+![screenshot](assets/screenshot.png)
 
 ## License
 

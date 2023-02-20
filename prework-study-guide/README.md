@@ -13,6 +13,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Badges](#badges)
 
 ## Installation
 
